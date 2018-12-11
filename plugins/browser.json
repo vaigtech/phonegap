@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "tempo111"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "XXXXXXX",
+            "PACKAGE_NAME": "tempo111"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "tempo111"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "tempo111"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "tempo111"
+        }
+    },
+    "dependent_plugins": {}
+}
